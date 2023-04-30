@@ -18,6 +18,7 @@ Where I am from and where I have studied - Seattle, CU
 What I am interested in - data science, software development, etc.
 Jobs I look for - small company, humanitarian, in person
 
+My name is Jack Higgins. I am a graduating senior who studied computer science at the University of Colorado Boulder. I have an interest in software development and data science that I have pursued through my classes at CU. I grew up in the greater Seattle area and graduated from Issaquah High School in 2019. Currently, I am looking for job opportunities in either the software development or data science field to grow in my professional life.
 
 Include at least two pictures
 professional looking picture of you
@@ -26,11 +27,6 @@ Tips for Pictures
 Don’t have to be done by a professional photographer.
 Selfies are not recommended. 
 Professional and/or appropriate attire for your brand is recommended. 
-
-I need to take new photos
-The university offers professional headshots and I will go there to take photos
-Monday. I have 1 photo I could potentially use.
-
 
 A page with your embedded Resume or CV. 
 Resume/CV .PDF or from Google Drive 
