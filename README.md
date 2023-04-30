@@ -5,13 +5,14 @@ Create the pages of your website/Digital Portfolio.  Your portfolio should inclu
 “Highlights-Academic/Projects/Working” page,
 “Social Media” page.
 
-Your portfolio should have the following. Each page is outlined below: 
 Homepage that is a Welcome / About Me Page
 full paragraph, 250 words or more  
 “Inviting and warm” welcome message
 Narrative of who you are / what makes you unique 
 Purpose of the digital portfolio with rationale
 Explanation of what visitors will find on the portfolio 
+
+# Welcome
 
 Where I am from and where I have studied - Seattle, CU
 What I am interested in - data science, software development, etc.
