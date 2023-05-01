@@ -18,7 +18,9 @@ Where I am from and where I have studied - Seattle, CU
 What I am interested in - data science, software development, etc.
 Jobs I look for - small company, humanitarian, in person
 
-My name is Jack Higgins. I am a graduating senior who studied computer science at the University of Colorado Boulder. I have an interest in software development and data science that I have pursued through my classes at CU. I grew up in the greater Seattle area and graduated from Issaquah High School in 2019. Currently, I am looking for job opportunities in either the software development or data science field to grow in my professional life.
+My name is Jack Higgins. I am a graduating senior who studied computer science at the University of Colorado Boulder. I have an interest in software development and data science that I have pursued through my classes at CU. I grew up in the greater Seattle area and graduated from Issaquah High School in 2019. I am graduating in the spring of 2023 with a bachelors degree in Computer Science from the school of engineering and a business minor.
+
+Currently, I am looking for job opportunities in either the software development or data science field to grow in my professional life. I have developed a passion for data science, specifically looking at the applications of machine learning in the field to solve humanitarian issues.
 
 Include at least two pictures
 professional looking picture of you
