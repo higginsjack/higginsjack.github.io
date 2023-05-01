@@ -35,14 +35,7 @@ Professional and/or appropriate attire for your brand is recommended.
 
 # Resume
 
-A page with your embedded Resume or CV. 
-Resume/CV .PDF or from Google Drive 
-Leave out your personal information, address, phone number  
-Make sure the resume is shared with anyone on the internet with the “link can view” (viewer) 
-Check in an incognito window to test it. 
-
-Will need to edit my current resume because my resume is around 4 months old
-Check my resume with the career services resume checker
+[Click here to view my resume](https://drive.google.com/file/d/1e6CnZcqW8teMI4kFj8aAPcAoCkuL4jH-/view?usp=sharing)
 
 # Extracurricular Interests
 
@@ -58,10 +51,6 @@ A big part of why I came to Colorado was to get to ski on weekends. Coming from 
 Highlights of your interests or extracurricular activities you are involved with (special things that distinguish you from others charity work, community service, etc.)
 At least 3 highlights with pictures
 At least 50 words per description 
-
-Talk about tennis, soccer, and running
-I haven’t done community service since I was in high school so maybe this is something I should consider
-My jobs in past have been landscaping/construction for the past 5 years
 
 # Academic Acheivements
 
