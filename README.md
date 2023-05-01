@@ -44,6 +44,7 @@ When I have gone back to Seattle for the summers I spend my free time playing te
 
 ### Skiing
 <img src="https://cdn2.iconfinder.com/data/icons/ski-glyph-silhouettes/300/145655537Untitled-3-512.png" alt="Skiing pic" style="width:120px;height:120px;">
+
 A big part of why I came to Colorado was to get to ski on weekends. Coming from the Cascades to the Rockies was a great shift in quality and I have had a blast skiing Eldora, Copper, and Winter Park while I have been at CU.
 
 Highlights of your interests or extracurricular activities you are involved with (special things that distinguish you from others charity work, community service, etc.)
