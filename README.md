@@ -43,6 +43,7 @@ I picked up rock climbing in late 2022 and have been going to a climbing gym con
 When I have gone back to Seattle for the summers I spend my free time playing tennis with friends and family. Can't say I am great, but would love to play consistently when I am out of university.
 
 ### Skiing
+<img src="https://cdn2.iconfinder.com/data/icons/ski-glyph-silhouettes/300/145655537Untitled-3-512.png" alt="Skiing pic" style="width:120px;height:120px;">
 A big part of why I came to Colorado was to get to ski on weekends. Coming from the Cascades to the Rockies was a great shift in quality and I have had a blast skiing Eldora, Copper, and Winter Park while I have been at CU.
 
 Highlights of your interests or extracurricular activities you are involved with (special things that distinguish you from others charity work, community service, etc.)
@@ -63,6 +64,7 @@ Principles of programming, object oriented programming, and advanced data scienc
 <p align="left">
   <img src="poster.png">
 </p>
+The goal of this project was to develop a model to show the effect of cable news on a stock price. We scraped Internet Archive for years worth of data from CNBC, CNN, Fox Business, and MSNBC. We cleaned the shows by using music identification from pyAudioAnalysis to isolate the shows. From this data we used Whisper to get an accurate transcript of what was said. We pulled stock data from the past 10 years to test with. We identified when companies were spoken about and used OLS regression to create a model. 
 
 # Social Media
 Include your LinkedIn profile link 
