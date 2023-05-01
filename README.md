@@ -66,5 +66,5 @@ Make sure they are public and the links work
 For all of your links to your social media profiles: Include a minimum 25 word explanation of how it supports your personal brand and what type of content visitors will find relevant. 
 
 
-LinkedIn
-I don’t have social media, I could put twitter but I don’t use it
+[LinkedIn](https://www.linkedin.com/in/jack-higgins-5bba08209/)
+[Twitter](https://twitter.com/JackHig94240836)
