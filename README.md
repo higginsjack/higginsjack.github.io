@@ -22,7 +22,8 @@ My name is Jack Higgins. I am a graduating senior who studied computer science a
 
 Currently, I am looking for job opportunities in either the software development or data science field to grow in my professional life. I have developed a passion for data science, specifically looking at the applications of machine learning in the field to solve humanitarian issues.
 
-
+![alt text](https://github.com/higginsjack/higginsjack.github.io/blob/main/IMG_0129.jpg?raw=true)
+![alt text](https://github.com/higginsjack/higginsjack.github.io/blob/main/headshot.jpg?raw=true)
 
 Include at least two pictures
 professional looking picture of you
@@ -45,6 +46,14 @@ Check my resume with the career services resume checker
 
 # Extracurricular Interests
 
+### Rock Climbing / Bouldering
+I picked up rock climbing in late 2022 and have been going to a climbing gym consistently since then. My friends at CU have been climbing for nearly their entire lives so they have been able to teach me some tricks.
+
+### Tennis
+When I have gone back to Seattle for the summers I spend my free time playing tennis with friends and family. Can't say I am great, but would love to play consistently when I am out of university.
+
+### Skiing
+A big part of why I came to Colorado was to get to ski on weekends. Coming from the Cascades to the Rockies was a great shift in quality and I have had a blast skiing Eldora, Copper, and Winter Park while I have been at CU.
 
 Highlights of your interests or extracurricular activities you are involved with (special things that distinguish you from others charity work, community service, etc.)
 At least 3 highlights with pictures
