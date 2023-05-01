@@ -23,11 +23,11 @@ My name is Jack Higgins. I am a graduating senior who studied computer science a
 Currently, I am looking for job opportunities in either the software development or data science field to grow in my professional life. I have developed a passion for data science, specifically looking at the applications of machine learning in the field to solve humanitarian issues.
 
 <p align="center">
-  <img src="https://github.com/higginsjack/higginsjack.github.io/blob/main/headshot.jpg">
+  <img src="headshot.jpg">
 </p>
 
 <p align="center">
-  <img src="https://github.com/higginsjack/higginsjack.github.io/blob/main/IMG_0129.jpg">
+  <img src="IMG_0129.jpg">
 </p>
 
 # Resume
