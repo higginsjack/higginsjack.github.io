@@ -45,13 +45,14 @@ When I have gone back to Seattle for the summers I spend my free time playing te
 ### Skiing
 <img src="https://cdn2.iconfinder.com/data/icons/ski-glyph-silhouettes/300/145655537Untitled-3-512.png" alt="Skiing pic" style="width:120px;height:120px;">
 
+
 A big part of why I came to Colorado was to get to ski on weekends. Coming from the Cascades to the Rockies was a great shift in quality and I have had a blast skiing Eldora, Copper, and Winter Park while I have been at CU.
 
 Highlights of your interests or extracurricular activities you are involved with (special things that distinguish you from others charity work, community service, etc.)
 At least 3 highlights with pictures
 At least 50 words per description 
 
-# Academic Acheivements
+# Academic Projects
 
 Highlights of your academic, projects, or working career 
 At least 3 projects/highlights with pictures/links  
@@ -67,6 +68,18 @@ Principles of programming, object oriented programming, and advanced data scienc
 </p>
 The goal of this project was to develop a model to show the effect of cable news on a stock price. We scraped Internet Archive for years worth of data from CNBC, CNN, Fox Business, and MSNBC. We cleaned the shows by using music identification from pyAudioAnalysis to isolate the shows. From this data we used Whisper to get an accurate transcript of what was said. We pulled stock data from the past 10 years to test with. We identified when companies were spoken about and used OLS regression to create a model. 
 
+### Cross Campus Perceptions of the Role of a Novel Regional Medical Campus
+
+Penn State College of Medicine, State College, PA 
+Role: Co-Author, Lead Statistician 
+Status: Submitted to the Journal of Regional Medical Campuses 
+
+I created a python script that ran the Mann-Whitney and Kruskal-Wallis tests of significance. I had to clean the data and research the appropriate test of significance. 
+
+### Playswap 
+
+Created an IOS appliation that transfered playlists from Spotify to Apple Music and vice versa. This required research of the Spotify API and the Apple Music API. I also had to learn Swift for this project. 
+
 # Social Media
 Include your LinkedIn profile link 
 At least two additional links social media profiles (2 additional)
@@ -75,4 +88,6 @@ For all of your links to your social media profiles: Include a minimum 25 word e
 
 
 [LinkedIn](https://www.linkedin.com/in/jack-higgins-5bba08209/)
+
+
 [Twitter](https://twitter.com/JackHig94240836)
