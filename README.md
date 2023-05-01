@@ -58,6 +58,11 @@ At least 50 words per description
 Mostly put coursework and descriptions of classes
 Principles of programming, object oriented programming, and advanced data science
 
+### Capstone - NLP in Finance
+
+<p align="left">
+  <img src="poster.jpg">
+</p>
 
 # Social Media
 Include your LinkedIn profile link 
