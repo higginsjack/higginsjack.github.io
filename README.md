@@ -23,15 +23,9 @@ My name is Jack Higgins. I am a graduating senior who studied computer science a
 Currently, I am looking for job opportunities in either the software development or data science field to grow in my professional life. I have developed a passion for data science, specifically looking at the applications of machine learning in the field to solve humanitarian issues.
 
 ![alt text](https://github.com/higginsjack/higginsjack.github.io/blob/main/headshot.jpg?raw=true)
-<img src="https://github.com/higginsjack/higginsjack.github.io/blob/main/IMG_0129.jpg"  width="700" height="500">
-
-Include at least two pictures
-professional looking picture of you
-Professional picture that represents you or your interests
-Tips for Pictures
-Don’t have to be done by a professional photographer.
-Selfies are not recommended. 
-Professional and/or appropriate attire for your brand is recommended. 
+<p align="center">
+  <img src="https://github.com/higginsjack/higginsjack.github.io/blob/main/IMG_0129.jpg"  width="700" height="500">
+</p>
 
 # Resume
 
