@@ -27,7 +27,7 @@ Currently, I am looking for job opportunities in either the software development
 </p>
 
 <p align="center">
-  <img src="IMG_0129.jpg">
+  <img src="IMG_0129.jpg" style="width:1920px;height:1440px;">
 </p>
 
 # Resume
