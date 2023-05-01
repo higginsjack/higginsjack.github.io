@@ -22,7 +22,7 @@ My name is Jack Higgins. I am a graduating senior who studied computer science a
 
 Currently, I am looking for job opportunities in either the software development or data science field to grow in my professional life. I have developed a passion for data science, specifically looking at the applications of machine learning in the field to solve humanitarian issues.
 
-![alt text](https://github.com/higginsjack/higginsjack.github.io/blob/main/IMG_0129.jpg?raw=true)
+
 
 Include at least two pictures
 professional looking picture of you
@@ -31,6 +31,8 @@ Tips for Pictures
 Don’t have to be done by a professional photographer.
 Selfies are not recommended. 
 Professional and/or appropriate attire for your brand is recommended. 
+
+# Resume
 
 A page with your embedded Resume or CV. 
 Resume/CV .PDF or from Google Drive 
@@ -41,7 +43,7 @@ Check in an incognito window to test it.
 Will need to edit my current resume because my resume is around 4 months old
 Check my resume with the career services resume checker
 
-
+# Extracurricular Interests
 
 
 Highlights of your interests or extracurricular activities you are involved with (special things that distinguish you from others charity work, community service, etc.)
@@ -52,6 +54,7 @@ Talk about tennis, soccer, and running
 I haven’t done community service since I was in high school so maybe this is something I should consider
 My jobs in past have been landscaping/construction for the past 5 years
 
+# Academic Acheivements
 
 Highlights of your academic, projects, or working career 
 At least 3 projects/highlights with pictures/links  
@@ -61,7 +64,7 @@ Mostly put coursework and descriptions of classes
 Principles of programming, object oriented programming, and advanced data science
 
 
-Social Media
+# Social Media
 Include your LinkedIn profile link 
 At least two additional links social media profiles (2 additional)
 Make sure they are public and the links work
