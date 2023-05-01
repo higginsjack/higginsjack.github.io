@@ -61,7 +61,7 @@ Principles of programming, object oriented programming, and advanced data scienc
 ### Capstone - NLP in Finance
 
 <p align="left">
-  <img src="poster.jpg">
+  <img src="poster.png">
 </p>
 
 # Social Media
