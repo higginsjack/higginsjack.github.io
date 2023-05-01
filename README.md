@@ -37,9 +37,15 @@ Currently, I am looking for job opportunities in either the software development
 # Extracurricular Interests
 
 ### Rock Climbing / Bouldering
+<img src="climb.png" alt="Climbing pic" style="width:120px;height:120px;">
+
+
 I picked up rock climbing in late 2022 and have been going to a climbing gym consistently since then. My friends at CU have been climbing for nearly their entire lives so they have been able to teach me some tricks.
 
 ### Tennis
+<img src="tennis.jpg" alt="Climbing pic" style="width:120px;height:120px;">
+
+
 When I have gone back to Seattle for the summers I spend my free time playing tennis with friends and family. Can't say I am great, but would love to play consistently when I am out of university.
 
 ### Skiing
